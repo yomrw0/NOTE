@@ -1,0 +1,2 @@
+# NOTE
+Bit Camp Project
