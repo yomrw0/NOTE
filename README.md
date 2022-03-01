@@ -1,2 +1,1 @@
-# NOTE
-Bit Camp Project
+비트캠프 최종 프로젝트
